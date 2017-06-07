@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "获取点集自由外接多边型", "获取点集自由外接多边型\获取点集自由外接多边型.csproj", "{DE5F1F6D-AB87-4C3E-A357-00D8DAC6022D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE5F1F6D-AB87-4C3E-A357-00D8DAC6022D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE5F1F6D-AB87-4C3E-A357-00D8DAC6022D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE5F1F6D-AB87-4C3E-A357-00D8DAC6022D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE5F1F6D-AB87-4C3E-A357-00D8DAC6022D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
